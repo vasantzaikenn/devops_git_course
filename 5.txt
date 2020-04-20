@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated with new line by master
+=======
+Adding new line by dev1 
+>>>>>>> dev1
